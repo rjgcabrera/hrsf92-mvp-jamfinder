@@ -1,0 +1,14 @@
+{
+  "name": "hrsf92-mvp-jamfinder",
+  "version": "1.0.0",
+  "description": "hrsf92-mvp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "music"
+  ],
+  "author": "Raymond Cabrera",
+  "license": "ISC"
+}
