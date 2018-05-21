@@ -1,0 +1,30 @@
+.header, .footer {
+  text-align: center;
+}
+
+.scrollbar {
+  max-height: 600px;
+  width: 40%;
+}
+
+.event-list-entry {
+  border-top: 1px solid lightgrey;
+}
+
+/* .main-div {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-around;
+} */
+
+.event-list {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-around;
+}
+
+/* .google-map {
+  display: flex;
+} */
