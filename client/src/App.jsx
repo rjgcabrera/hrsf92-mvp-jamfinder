@@ -26,7 +26,6 @@ class App extends React.Component {
         <Header />
         <div id="main-div">
           <EventList events={this.state.events} />
-
         </div>
         <Footer />
       </div>
